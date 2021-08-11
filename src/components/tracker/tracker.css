@@ -1,0 +1,92 @@
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  cursor: pointer;
+  font-size: .9rem;
+  color: #6c757d;
+}
+thead tr{
+    border-radius: .5rem
+}
+thead tr th{
+    background: #F3F3F3;
+    padding: 15px 10px;
+    font-weight: 700;
+}
+
+thead tr th:hover{
+    background: rgb(235, 235, 235)
+}
+tbody tr{
+    border-spacing: 10px 0;
+    transition: .5s;
+
+}
+tbody tr:nth-child(even){
+    background-color: #F3F3F380;
+}
+tbody tr td{
+    padding: 15px ;
+    font-weight: 600;
+    font-weight: 500;
+    border-bottom: 1px solid #F3F3F3;
+    letter-spacing: 1px;
+}
+tr:hover table{
+    border-spacing: 10px 15px;
+}
+
+tr:hover{
+    transition: .4s;
+    box-shadow:  0px 4px 5px 0px rgba(0,0,0,0.15)!important;
+}
+
+
+
+tr:focus, tr:hover, th:focus{
+    background-color: #f3f3f3!important;
+    outline: none
+}
+
+.cases-list li{
+    list-style: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: .3rem;
+}
+
+.cases-list{
+    padding: 0;
+    margin:0;
+    cursor: pointer;
+}
+
+.cases-list li:nth-child(1){
+    color: #FF0000;
+    background-color: #FFE0E6;
+}
+
+.cases-list li:nth-child(2){
+    color: #017CFF;
+    background-color:#EFF7FF;
+}
+
+.cases-list li:nth-child(3){
+    color: #29A746;
+    background-color: #E4F4E8;
+}
+
+.cases-list li:nth-child(4){
+    color: #6D767E;
+    background-color: #F6F6F7;
+}
+
+.list-link{
+    font-size: .8rem;
+}
+
+.link-data{
+    font-size: 1.5rem;
+}

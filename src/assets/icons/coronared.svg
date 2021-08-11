@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.001" height="50.001" viewBox="0 0 50.001 50.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="0.2" x2="1" y2="0.76" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b1f1"/>
+      <stop offset="1" stop-color="#69f4d9"/>
+    </linearGradient>
+  </defs>
+  <g id="coronavirus" transform="translate(0 0)">
+    <path id="Path_1" data-name="Path 1" d="M48.914,28.239a1.465,1.465,0,0,0-1.794,1.036l-.034.126-3.39-.908a19.047,19.047,0,0,0,0-6.986l3.39-.909.034.127a1.465,1.465,0,1,0,2.83-.758l-.826-3.083a1.465,1.465,0,1,0-2.83.758l.034.127-3.39.908a19.027,19.027,0,0,0-3.5-6.043l2.488-2.489.093.093A1.465,1.465,0,1,0,44.09,8.167L41.834,5.91a1.465,1.465,0,1,0-2.072,2.071l.093.093-2.489,2.488a19.026,19.026,0,0,0-6.043-3.5l.908-3.39.127.034a1.465,1.465,0,1,0,.758-2.83L30.033.05a1.465,1.465,0,1,0-.758,2.83l.126.034L28.493,6.3a19.047,19.047,0,0,0-6.986,0L20.6,2.914l.126-.034A1.465,1.465,0,1,0,19.967.05L16.884.876a1.465,1.465,0,1,0,.759,2.83l.126-.034.909,3.39a19.028,19.028,0,0,0-6.044,3.5L10.145,8.074l.093-.093A1.465,1.465,0,1,0,8.167,5.91L5.91,8.166a1.465,1.465,0,1,0,2.071,2.072l.093-.093,2.488,2.489a19.03,19.03,0,0,0-3.5,6.043l-3.39-.909.034-.126a1.465,1.465,0,1,0-2.83-.758L.05,19.967a1.465,1.465,0,1,0,2.83.758l.034-.126,3.39.908a19.05,19.05,0,0,0,0,6.986l-3.39.908-.034-.126a1.465,1.465,0,1,0-2.83.758l.826,3.083a1.465,1.465,0,1,0,2.83-.758l-.034-.127,3.39-.908a19.028,19.028,0,0,0,3.5,6.043L8.074,39.855l-.093-.093a1.465,1.465,0,0,0-2.072,2.072L8.166,44.09a1.465,1.465,0,1,0,2.072-2.071l-.093-.093,2.488-2.488a19.026,19.026,0,0,0,6.044,3.5l-.908,3.39-.127-.034a1.465,1.465,0,1,0-.758,2.83l3.083.826a1.465,1.465,0,1,0,.758-2.83l-.126-.034.908-3.39a19.047,19.047,0,0,0,6.986,0l.908,3.39-.127.034a1.465,1.465,0,1,0,.759,2.83l3.083-.826a1.465,1.465,0,1,0-.759-2.83l-.126.034-.909-3.39a19.028,19.028,0,0,0,6.044-3.5l2.488,2.488-.092.093a1.465,1.465,0,1,0,2.071,2.071l2.257-2.256a1.465,1.465,0,1,0-2.071-2.072l-.093.093-2.489-2.489a19.026,19.026,0,0,0,3.5-6.043l3.39.908-.034.127a1.465,1.465,0,1,0,2.83.758l.826-3.083a1.464,1.464,0,0,0-1.035-1.794ZM25,41.089A16.09,16.09,0,1,1,41.09,25,16.106,16.106,0,0,1,25,41.089Z" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.465" cy="1.465" r="1.465" transform="translate(23.535 12.552)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.465" cy="1.465" r="1.465" transform="translate(23.535 34.518)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="1.465" cy="1.465" r="1.465" transform="translate(20.397 26.673)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.465" cy="1.465" r="1.465" transform="translate(26.673 26.673)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="1.465" cy="1.465" r="1.465" transform="translate(26.673 20.397)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="1.465" cy="1.465" r="1.465" transform="translate(20.397 20.397)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="1.465" cy="1.465" r="1.465" transform="translate(34.518 23.535)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="1.465" cy="1.465" r="1.465" transform="translate(12.552 23.535)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="1.465" cy="1.465" r="1.465" transform="translate(31.301 15.769)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.465" cy="1.465" r="1.465" transform="translate(15.769 31.302)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="1.465" cy="1.465" r="1.465" transform="translate(31.301 31.302)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="1.465" cy="1.465" r="1.465" transform="translate(15.769 15.769)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
